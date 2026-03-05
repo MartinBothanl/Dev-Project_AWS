@@ -36,3 +36,11 @@ Thumbs.db
 secrets/
 *.secret
 credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.egg-info/
