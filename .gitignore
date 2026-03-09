@@ -44,3 +44,6 @@ __pycache__/
 venv/
 env/
 *.egg-info/
+
+# Nested repositories
+A1---App/
