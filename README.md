@@ -4,7 +4,7 @@ This repository contains my DevOps learning projects using AWS, Terraform, Kuber
 
 ## Structure
 
-- `terraform/` - Infrastructure as Code projects using Terraform
+- `A1---App/` - Application code and infrastructure (includes Terraform under `A1---App/terraform/`)
 - `kubernetes/` - Kubernetes manifests and configurations
 - `docker/` - Dockerfiles and container configurations
 - `ansible/` - Ansible playbooks and roles
